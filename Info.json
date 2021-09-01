@@ -1,0 +1,50 @@
+{
+    "News": [
+        {
+            "id": 1,
+            "title": "news one here",
+            "description": "News about the Happening 1"
+        },
+        {
+            "id": 2,
+            "title": "news two here",
+            "description": "News about the Happening 2"
+        },
+        {
+            "id": 3,
+            "title": "news three here",
+            "description": "News about the Happening 3"
+        }
+    ],
+
+    "Weather":[
+
+        {
+            "id":1,
+            "title":"sunny",
+            "description":"Its really sunny in kuwait city"
+        },
+
+        
+        {
+            "id":2,
+            "title":"rainy",
+            "description":"Its really rainy in Tokyo japan"
+        },
+
+        
+        {
+            "id":3,
+            "title":"cold",
+            "description":"Its really cold in kharkiv ukraine"
+        },
+
+
+        {
+            "id":3,
+            "title":"cloudy",
+            "description":"Its really cloudy in madrid spain"
+
+        }
+    ]
+}
