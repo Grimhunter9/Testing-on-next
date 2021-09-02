@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "fake-api":"json-server --watch Info.json --port 5000"
+    "fake-api":"json-server --watch Info.json --port 4000"
   },
   "dependencies": {
     "json-server": "^0.16.3",

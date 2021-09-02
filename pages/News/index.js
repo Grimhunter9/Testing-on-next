@@ -25,7 +25,7 @@ export default function NewsList({news}){
 
 export async function getServerSideProps(){
 
-    const response=  await fetch("http://localhost:5000/Weather")
+    const response=  await fetch("http://localhost:4000/Weather")
     const data = await response.json()
 
     return {
